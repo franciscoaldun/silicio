@@ -64,7 +64,7 @@ Silicio no es software libre: es un programa con todos los derechos reservados, 
 
 | Versión | Fecha | Archivo | SHA-256 |
 |---|---|---|---|
-| 0.6.1 | 18-10-2026 | `Silicio-0.6.1-portable.zip` (completa) | `36c89bb2b099ccfecb7f0a4fe93e2aeaab3d149166abd6f62a28e85d55895815` |
+| 0.6.1 | 18-10-2026 | `Silicio-0.6.1-portable.zip` (completa, se vende aparte) | `36c89bb2b099ccfecb7f0a4fe93e2aeaab3d149166abd6f62a28e85d55895815` |
 | 0.6.1 | 18-10-2026 | `Silicio-0.6.1-prueba.zip` (prueba) | `56057f50a760218974dec20fc60caef420293fa9817ac251d109cf17bb99d326` |
 
 Descripción técnica y constancia con fecha en Zenodo: [10.5281/zenodo.23460025](https://doi.org/10.5281/zenodo.23460025).
