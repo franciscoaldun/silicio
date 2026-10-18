@@ -4,7 +4,7 @@
 
 [![Compuerta NAND con sus 4 transistores funcionando dentro de un reloj de cuarzo](capturas/nand-transistores.jpg)](https://github.com/franciscoaldun/silicio/releases/download/v0.6.1/Silicio-video-demo.mp4)
 
-▶ **[Ver el video (46 s)](https://github.com/franciscoaldun/silicio/releases/download/v0.6.1/Silicio-video-demo.mp4)** · ⬇ **[Descargar Silicio 0.6.1 para Windows](https://github.com/franciscoaldun/silicio/releases/latest)**
+▶ **[Ver el video (46 s)](https://github.com/franciscoaldun/silicio/releases/download/v0.6.1/Silicio-video-demo.mp4)** · ⬇ **[Probar gratis](https://github.com/franciscoaldun/silicio/releases/download/v0.6.1/Silicio-0.6.1-prueba.zip)** · 🛒 **[Comprar Silicio](#comprar)**
 
 ## Qué es
 
@@ -39,11 +39,18 @@ Multímetro, osciloscopio de 4 canales con disparo, medidas y FFT, analizador l�
 
 ![Generador, osciloscopio y multímetro](capturas/instrumentos.jpg)
 
-## Descargar
+## Probar gratis
 
+- Baja [`Silicio-0.6.1-prueba.zip`](https://github.com/franciscoaldun/silicio/releases/download/v0.6.1/Silicio-0.6.1-prueba.zip), descomprímelo y abre `silicio.exe`. En la versión de prueba funciona todo, pero no se pueden guardar proyectos.
 - **Requisitos:** Windows 10 u 11 de 64 bits, con cualquier procesador x86-64 (también Celeron y Pentium). No necesita internet.
-- Baja `Silicio-0.6.1-portable.zip` desde [Releases](https://github.com/franciscoaldun/silicio/releases/latest), descomprímelo y abre `silicio.exe`.
 - Windows puede mostrar "Windows protegió su PC" porque el programa es nuevo: "Más información" → "Ejecutar de todas formas".
+
+## Comprar
+
+**Silicio completo** guarda tus proyectos, y cada compra ayuda a que siga creciendo.
+
+- **Microsoft Store:** muy pronto.
+- **itch.io:** muy pronto.
 
 ## Para colegios, universidades y empresas
 
@@ -57,7 +64,10 @@ Silicio no es software libre: es un programa con todos los derechos reservados, 
 
 | Versión | Fecha | Archivo | SHA-256 |
 |---|---|---|---|
-| 0.6.1 | 18-10-2026 | `Silicio-0.6.1-portable.zip` | `36c89bb2b099ccfecb7f0a4fe93e2aeaab3d149166abd6f62a28e85d55895815` |
+| 0.6.1 | 18-10-2026 | `Silicio-0.6.1-portable.zip` (completa) | `36c89bb2b099ccfecb7f0a4fe93e2aeaab3d149166abd6f62a28e85d55895815` |
+| 0.6.1 | 18-10-2026 | `Silicio-0.6.1-prueba.zip` (prueba) | `56057f50a760218974dec20fc60caef420293fa9817ac251d109cf17bb99d326` |
+
+Descripción técnica y constancia con fecha en Zenodo: [10.5281/zenodo.23460025](https://doi.org/10.5281/zenodo.23460025).
 
 Los cambios de cada versión están en [CAMBIOS.md](CAMBIOS.md).
 
